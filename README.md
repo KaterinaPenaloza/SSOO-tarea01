@@ -9,3 +9,5 @@ lo que dio como resultado 1 2 3 4 5 6 7 8 9 10
 Luego ejecute el comando echo 2021-{01..12}-{01-31} para dar forma a la estructura de carpeta
 Por lo tanto usando el comando mkdir para crear directorios, el comando final para resolver el problema es:
 mkdir 2021-{01..12}-{01-31}
+
+Lamentablemente para el resto de problemas no hubo tiempo de realizarlos :(
